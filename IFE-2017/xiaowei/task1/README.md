@@ -17,7 +17,7 @@
 
 ### 任务描述
 
-参考示例图（[点击查看](http://7xrp04.com1.z0.glb.clouddn.com/task_1_1_1.jpg)），完成一个HTML页面代码编写（不写CSS，不需要关注样式，只关注文档结构）
+参考示例图（[点击查看](https://raw.githubusercontent.com/deardirks/IFE/master/IFE-2017/xiaowei/task1/images/task_1_1_1.jpg)），完成一个HTML页面代码编写（不写CSS，不需要关注样式，只关注文档结构）
 
 ### 任务描述任务注意事项
 
@@ -26,6 +26,6 @@
 - 尽可能多地尝试更多的HTML标签
 
 ### 在线学习参考资料
-[Web相关名词通俗解释](https://www.zhihu.com/question/22689579)
-[MDN HTML入门](https://developer.mozilla.org/zh-CN/docs/learn/HTML/Introduction_to_HTML)
-[慕课HTML+CSS基础教程视频](http://www.imooc.com/learn/9)
+- [Web相关名词通俗解释](https://www.zhihu.com/question/22689579)
+- [MDN HTML入门](https://developer.mozilla.org/zh-CN/docs/learn/HTML/Introduction_to_HTML)
+- [慕课HTML+CSS基础教程视频](http://www.imooc.com/learn/9)
